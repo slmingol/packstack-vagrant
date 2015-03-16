@@ -2,7 +2,7 @@ Configuration
 =============
 
 Copy the sample configuration file ``config.yaml.sample`` to
-``config.yaml`` and adjust the file accordingly.
+``config.yaml`` and adjust the file accordingly. **NOTE:** The sample file is located `here <https://github.com/stackforge/packstack-vagrant/blob/master/config.yaml.sample>`__.
 
 Base box
 --------
